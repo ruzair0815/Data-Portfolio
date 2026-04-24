@@ -4,7 +4,7 @@
 
 Hi, I’m Rehma! I recently graduated with a B.S. in Computer Science from the University of Texas at Dallas, where I built a strong foundation in data analysis, programming, and problem-solving. I’m especially interested in analytics and product-focused roles that use data to drive decisions.
 
-Alongside my studies, I’ve worked in fast=paced, highly regulated environments, where I developed strong attention to detail, communication skills, and the ability to handle responsibility under pressure. This experience has shaped how I approach problems: thoughtfully, efficiently, and with a focus on accuracy.
+Alongside my studies, I’ve worked in fast-paced, highly regulated environments, where I developed strong attention to detail, communication skills, and the ability to handle responsibility under pressure. This experience has shaped how I approach problems: thoughtfully, efficiently, and with a focus on accuracy.
 
 I’m always looking to keep learning and growing, and I’m currently seeking entry-level or internship opportunities where I can apply my skills and continue developing in data and product roles.
 
@@ -49,7 +49,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
-![Retail Dashboard](src/images/RetailDashboard.png)
+![Retail Dashboard](images/RetailDashboard.png)
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
