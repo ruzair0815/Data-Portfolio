@@ -39,15 +39,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 - [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
 - [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
-- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
-- [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-- [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-- [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
-- [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
-- [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
-- [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-- [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
+- [Project 4: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
+
 ---
 ## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
@@ -76,66 +69,21 @@ In this project, I built an ETL pipeline to analyze movie data and uncover insig
 
 This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
 
-## [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
+## [Project 4: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
 
-his project aims to analyze the historical trends of Netflix stock prices using Python and data analysis techniques. By examining the stock price data, we can gain insights into price fluctuations, patterns, and potential trends, which can be valuable for investors and financial analysis.
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-
-This project revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends.
-
-## [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
-##### Preview
-![pizza4](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/64e1be51-11d3-4579-b2ae-9f12d7624fa1)
-
-## [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-
-Exploring a treasure trove of insights and captivating visualizations drawn from a vast HR dataset covering 2000 to 2020, featuring over 22,000 records. Painstakingly curated and analyzed using PostgreSQL, this powerful dashboard showcases its findings through the elegance of Power BI. Unravel the secrets of the organization's workforce with answers to vital HR inquiries. Discover the gender and race/ethnicity breakdown, age distribution, headquarters vs. remote locations, average employment length for terminated employees, gender distribution across departments and job titles, job title distribution, highest turnover department, state-wise employee distribution, and changes in employee count over time based on hire and termination dates. Experience a profound understanding of employee tenures across departments. Employee-Distribution delivers valuable HR insights at your fingertips.
-![](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/7.png)
-
-## [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
-
-The project will cover a wide range of areas, including user engagement, sales performance, marketing effectiveness, and more. You'll be provided with access to datasets containing user information, events data, and email engagement details.
-
-## [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
-
-This project predicts the sales demand for various items in different stores based on historical sales data. The objective is to develop a machine learning model that can provide accurate forecasts for future sales of each store-item combination. 
-
-## [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
-
-E-commerce companies are relentlessly working to augment user experiences and bolster sales by offering tailor-made product recommendations. The "E-commerce Product Recommendation" project endeavors to create a recommendation system that suggests products to users based on their historical interactions and preferences.
-
-## [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
-
-In this project, I am analyzing hiring process data to gain insights from about records of previous hires within a multinational company. By analyzing this data, I am aiming to uncover valuable trends and information about the company's hiring process, which can contribute to making informed decisions and improvements for the future. 
-
-## [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
-
-The focus of this project is to delve into the realm of international debt analysis and understand its dynamics in a specific context. By narrowing down the scope, I aim to provide in-depth insights that resonate with the complexities and challenges faced by the selected region/country.
-
+This project is a hotel management database system focused on organizing and managing structured data related to hotel reservations. It stores and processes key datasets such as customer information, employee records, and booking details, enabling efficient querying and retrieval of reservation data. The system tracks important data points like check-in/check-out dates and billing information, allowing for accurate reporting and analysis of hotel operations. Built using a relational database with a web interface, the project highlights strong experience in data modeling, database design, and working with structured data to support real-world business processes.
 
 
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
+If you have any questions, feedback, or want to connect, please feel free to reach out to me. You can contact me via email at [rehmauzair@gmail.com](mailto:rehmauzair@gmail.com) or connect with me on LinkedIn at [Rehma Uzair](https://www.linkedin.com/in/rehma-uzair/).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
   
-
-## Author  
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[X](https://twitter.com/TaggData)</b> 
-- <b>[Data Unboxed Newsletter](https://tadata.substack.com/)</b> 
-- <b>[HuggingFace](https://huggingface.co/tushar27)</b> 
-- <b>[DagsHub](https://dagshub.com/tushar27)</b> 
-- <b>[Hashnode](https://hashnode.com/@TAGG)</b> 
-- <b>[NovyPro](https://www.novypro.com/profile_projects/tusharagg)</b> 
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
- 
