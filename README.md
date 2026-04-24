@@ -51,7 +51,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
-
+![Dashboard](src/images/dashboard.png)
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
