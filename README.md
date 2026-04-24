@@ -25,6 +25,11 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 
@@ -33,8 +38,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
-- [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
-- [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
+- [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
+- [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
 - [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 - [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
@@ -47,23 +52,30 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
 ## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
 ![Retail Dashboard](images/RetailDashboard.png)
 
-## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
+## [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-###### Deployment [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![3dash](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit/assets/66141195/ca77655e-b101-44e9-b5e7-fcdbf5aae388)
+In this project, I built an ETL pipeline to analyze movie data and uncover insights related to popularity, ratings, and profitability. The workflow extracts raw movie data from a CSV file, cleans and transforms it using Python and Pandas, and then loads the processed data into a SQLite database for structured storage and querying. The project demonstrates a full data pipeline from raw data to actionable insights using Python-based data processing and SQL for analysis.
 
+## [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-
-## [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
-
-The objective of this project is to build a sales forecasting model that predicts future sales for each Rossmann store. By leveraging historical sales data, store-specific information, and external factors like holidays, the model aims to provide reliable sales predictions for upcoming periods. This will help Rossmann allocate resources efficiently, optimize store operations, and maintain customer satisfaction by ensuring the availability of products.
+This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
 
 ## [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
 
