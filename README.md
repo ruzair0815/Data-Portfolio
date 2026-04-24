@@ -1,5 +1,13 @@
 # Data Analytics Portfolio Projects 
 
+## About
+
+Hi, I’m Rehma! I recently graduated with a B.S. in Computer Science from the University of Texas at Dallas, where I built a strong foundation in data analysis, programming, and problem-solving. I’m especially interested in analytics and product-focused roles that use data to drive decisions.
+
+Alongside my studies, I’ve worked in fast=paced, highly regulated environments, where I developed strong attention to detail, communication skills, and the ability to handle responsibility under pressure. This experience has shaped how I approach problems: thoughtfully, efficiently, and with a focus on accuracy.
+
+I’m always looking to keep learning and growing, and I’m currently seeking entry-level or internship opportunities where I can apply my skills and continue developing in data and product roles.
+
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +32,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+- [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 - [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 - [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
 - [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
@@ -39,9 +47,11 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 ---
-## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
+
+
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
