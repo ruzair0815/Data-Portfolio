@@ -45,13 +45,11 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
 - [Project 12: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
 ---
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
----
 ## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
-![Dashboard](src/images/dashboard.png)
+![Retail Dashboard](src/images/RetailDashboard.png)
 
 ## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
