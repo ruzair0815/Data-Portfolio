@@ -86,7 +86,7 @@ This project is a hotel management database system focused on organizing and man
 
 This project explores retail transaction data to uncover insights into customer purchasing behavior, revenue trends, and product performance across different categories and demographics. Using Excel for dashboarding and Python for data analysis, the project examines key patterns such as monthly revenue fluctuations and how spending varies across customer segments. An interactive dashboard was developed to visualize KPIs and trends, helping translate raw sales data into clear, actionable business insights.
 
-![Customer Dashboard](images/Retail Sales Dashboard.png)
+![Customer Dashboard](images/CustomerDashboard.png)
 
 ## Contact Information
 
