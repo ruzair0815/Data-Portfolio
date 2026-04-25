@@ -40,7 +40,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 - [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
 - [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
 - [Project 4: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
-
+- [Project 5: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 ---
 ## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
@@ -78,7 +78,15 @@ This project is a web application that analyzes Spotify playlists to generate in
 
 This project is a hotel management database system focused on organizing and managing structured data related to hotel reservations. It stores and processes key datasets such as customer information, employee records, and booking details, enabling efficient querying and retrieval of reservation data. The system tracks important data points like check-in/check-out dates and billing information, allowing for accurate reporting and analysis of hotel operations. Built using a relational database with a web interface, the project highlights strong experience in data modeling, database design, and working with structured data to support real-world business processes.
 
+## [Project 5: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+This project explores retail transaction data to uncover insights into customer purchasing behavior, revenue trends, and product performance across different categories and demographics. Using Excel for dashboarding and Python for data analysis, the project examines key patterns such as monthly revenue fluctuations and how spending varies across customer segments. An interactive dashboard was developed to visualize KPIs and trends, helping translate raw sales data into clear, actionable business insights.
+
+![Customer Dashboard](images/Retail Sales Dashboard.png)
 
 ## Contact Information
 
