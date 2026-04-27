@@ -53,6 +53,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 This project analyzes a decade of hospital patient data to evaluate whether diabetes is a predictor of readmission. Using Tableau, I built an interactive dashboard to compare readmission rates between diabetic and non-diabetic patients, incorporating key clinical and utilization metrics such as A1C levels and glucose test results The analysis shows that patients with diabetes experience a higher rate of readmission, suggesting that chronic condition management plays a significant role in patient outcomes. The dashboard also allows users to explore trends by age, providing a dynamic view of factors that contribute to readmission risk.
 
+![Diabetes Dashboard](images/DiabetesDashboard.png)
+
 ## [Project 3: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
