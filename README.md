@@ -29,30 +29,42 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 
 
 
 ## Table of Contents
 
-- [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
-- [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
-- [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
-- [Project 4: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
-- [Project 5: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
+-
+- [Project 2: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Project 3: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
+- [Project 4: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
+- [Project 5: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+- [Project 6: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
+- [Project 7: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 ---
-## [Project 1: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
+## [Project 1: 
+
+
+## [Project 2: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+This project analyzes a decade of hospital patient data to evaluate whether diabetes is a predictor of readmission. Using Tableau, I built an interactive dashboard to compare readmission rates between diabetic and non-diabetic patients, incorporating key clinical and utilization metrics such as A1C levels and glucose test results The analysis shows that patients with diabetes experience a higher rate of readmission, suggesting that chronic condition management plays a significant role in patient outcomes. The dashboard also allows users to explore trends by age, providing a dynamic view of factors that contribute to readmission risk.
+
+## [Project 3: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
 ![Retail Dashboard](images/RetailDashboard.png)
 
-## [Project 2: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
+## [Project 4: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,7 +72,7 @@ In this project, I analyzed and visualized retail sales data from the Sample Sup
 
 In this project, I built an ETL pipeline to analyze movie data and uncover insights related to popularity, ratings, and profitability. The workflow extracts raw movie data from a CSV file, cleans and transforms it using Python and Pandas, and then loads the processed data into a SQLite database for structured storage and querying. The project demonstrates a full data pipeline from raw data to actionable insights using Python-based data processing and SQL for analysis.
 
-## [Project 3: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+## [Project 5: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +81,7 @@ In this project, I built an ETL pipeline to analyze movie data and uncover insig
 
 This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
 
-## [Project 4: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
+## [Project 6: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -78,7 +90,7 @@ This project is a web application that analyzes Spotify playlists to generate in
 
 This project is a hotel management database system focused on organizing and managing structured data related to hotel reservations. It stores and processes key datasets such as customer information, employee records, and booking details, enabling efficient querying and retrieval of reservation data. The system tracks important data points like check-in/check-out dates and billing information, allowing for accurate reporting and analysis of hotel operations. Built using a relational database with a web interface, the project highlights strong experience in data modeling, database design, and working with structured data to support real-world business processes.
 
-## [Project 5: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
+## [Project 7: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
