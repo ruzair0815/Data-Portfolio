@@ -30,10 +30,6 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
-
-
-
 ## Table of Contents
 
 - [Project 1: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
