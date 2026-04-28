@@ -36,16 +36,21 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
--
+- [Project 1: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
 - [Project 2: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Project 3: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
-- [Project 4: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
-- [Project 5: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+- [Project 3: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
+- [Project 4: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+- [Project 5: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 - [Project 6: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
 - [Project 7: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 ---
-## [Project 1: 
+## [Project 1: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+This dashboard provides an interactive analysis of an online retail dataset, highlighting key business metrics and customer behavior from 2010–2011. It presents total revenue, order volume, and customer count alongside trends over time, allowing for quick assessment of overall performance and seasonality. Additional visualizations break down revenue by country and identify top-performing products, offering insights into geographic markets and product demand. A global country filter enables users to dynamically explore how performance varies across regions, making the dashboard a practical tool for understanding sales patterns and supporting data-driven decision-making.
+
+![Ecom Dashboard](images/EcomDashboard.png)
 
 ## [Project 2: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -55,7 +60,25 @@ This project analyzes a decade of hospital patient data to evaluate whether diab
 
 ![Diabetes Dashboard](images/DiabetesDashboard.png)
 
-## [Project 3: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
+
+## [Project 3: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+In this project, I built an ETL pipeline to analyze movie data and uncover insights related to popularity, ratings, and profitability. The workflow extracts raw movie data from a CSV file, cleans and transforms it using Python and Pandas, and then loads the processed data into a SQLite database for structured storage and querying. The project demonstrates a full data pipeline from raw data to actionable insights using Python-based data processing and SQL for analysis.
+
+## [Project 4: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+
+This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
+
+## [Project 5: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -65,23 +88,6 @@ This project analyzes a decade of hospital patient data to evaluate whether diab
 In this project, I analyzed and visualized retail sales data from the Sample Superstore dataset to uncover key business insights. Using Python (Pandas, Matplotlib, and Seaborn), I calculated KPIs and explored trends across regions, product categories, and customer segments. I also built an interactive dashboard in Tableau to present the findings in a clear and user-friendly way. The analysis highlights patterns in sales and profitability, helping identify high-performing areas and opportunities for improvement.
 
 ![Retail Dashboard](images/RetailDashboard.png)
-
-## [Project 4: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-In this project, I built an ETL pipeline to analyze movie data and uncover insights related to popularity, ratings, and profitability. The workflow extracts raw movie data from a CSV file, cleans and transforms it using Python and Pandas, and then loads the processed data into a SQLite database for structured storage and querying. The project demonstrates a full data pipeline from raw data to actionable insights using Python-based data processing and SQL for analysis.
-
-## [Project 5: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-
-This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
 
 ## [Project 6: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
 
