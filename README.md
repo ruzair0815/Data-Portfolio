@@ -2,11 +2,11 @@
 
 ## About
 
-Hi, I’m Rehma! I recently graduated with a B.S. in Computer Science from the University of Texas at Dallas, where I built a strong foundation in data analysis, programming, and problem-solving. I’m especially interested in analytics and product-focused roles that use data to drive decisions.
+Hi, I’m Rehma! I graduated with a B.S. in Computer Science from the University of Texas at Dallas, where I built a strong foundation in data analysis, programming, and problem-solving. I’m especially interested in analytics and product-focused roles that use data to drive decisions.
 
 Alongside my studies, I’ve worked in fast-paced, highly regulated environments, where I developed strong attention to detail, communication skills, and the ability to handle responsibility under pressure. This experience has shaped how I approach problems: thoughtfully, efficiently, and with a focus on accuracy.
 
-I’m always looking to keep learning and growing, and I’m currently seeking entry-level or internship opportunities where I can apply my skills and continue developing in data and product roles.
+I’m always looking to keep learning and growing, and I’m currently seeking entry-level or internship opportunities where I can apply my skills and continue developing.
 
 ## Tech stack
 
