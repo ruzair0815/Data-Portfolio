@@ -72,7 +72,7 @@ This project simulates a large-scale retail sales database to analyze customer p
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Aircraft Dashboard](images/AircraftFleetReadiness.png)
+![Aircraft Dashboard](images/EngineAnalysisDashboard.png)
 
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
 
