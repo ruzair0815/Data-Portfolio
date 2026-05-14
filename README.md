@@ -36,14 +36,15 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 ## Table of Contents
 - [Project 1: Airline Profitability & Operations Analysis](https://github.com/ruzair0815/airline_profitability_operations_analysis)
 - [Project 2: Retail Transaction Database & Analysis](https://github.com/ruzair0815/Retail-Transaction-Database/tree/main)
-- [Project 3: Aircraft Fleet Readiness & Predictive Maintenance Dashboard](https://github.com/ruzair0815/Aircraft-Fleet-Readiness-Predictive-Maintenance/blob/main/README.md)
+- [Project 3: Headphone Market & Pricing Analytics Dashboard](https://github.com/ruzair0815/E-Commerce-Headphone-Analytics)
 - [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
 - [Project 5: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Project 6: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
-- [Project 7: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
-- [Project 8: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
-- [Project 9: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
-- [Project 10: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
+- [Project 7: Aircraft Fleet Readiness & Predictive Maintenance Dashboard](https://github.com/ruzair0815/Aircraft-Fleet-Readiness-Predictive-Maintenance/blob/main/README.md)
+- [Project 8: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+- [Project 9: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
+- [Project 10: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
+- [Project 11: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 ---
 ## [Project 1: Airline Profitability & Operations Analysis](https://github.com/ruzair0815/airline_profitability_operations_analysis)
 
@@ -65,18 +66,17 @@ This project analyzes 3M+ U.S. airline flight records to evaluate airline profit
 
 This project simulates a large-scale retail sales database to analyze customer purchasing behavior, revenue trends, store performance, and product sales. Using PostgreSQL and Docker, I designed and populated a relational database with thousands of customers, orders, and transactional records, then developed business-focused analytics queries to evaluate top-performing products, customer spending patterns, monthly revenue trends, and store-level KPIs. The project demonstrates data analysis, relational database design, and business intelligence concepts through large-scale retail transaction analysis.
 
-## [Project 3: Aircraft Fleet Readiness & Predictive Maintenance Dashboard](https://github.com/ruzair0815/Aircraft-Fleet-Readiness-Predictive-Maintenance/blob/main/README.md)
+## [Project 3: Headphone Market & Pricing Analytics Dashboard](https://github.com/ruzair0815/E-Commerce-Headphone-Analytics)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Aircraft Dashboard](images/EngineAnalysisDashboard.png)
+![Headphone Dashboard](images/HeadphoneDashboard.png)
 
-[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
+[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceHeadphoneAnalyticsDashboard/E-CommerceHeadphoneAnalyticsDashboard?publish=yes)
 
-This project analyzes aircraft engine sensor data to predict Remaining Useful Life (RUL) and support predictive maintenance. Using Python, I cleaned and analyzed sensor data, calculated RUL, and identified critical engines at risk of failure. I then built an interactive Tableau dashboard with KPIs, heatmaps, and trend visualizations to monitor fleet health and engine degradation. The project demonstrates how predictive analytics can improve maintenance planning and reduce unexpected failures.
+This project analyzes e-commerce headphone pricing data to identify market trends and brand positioning across online retail listings. Using Python, I scraped and cleaned product data, generated historical pricing trends, and built an interactive Tableau dashboard with KPI cards, trend charts, and pricing visualizations to analyze retail pricing behavior and market insights.
 
 ## [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
 
@@ -103,7 +103,18 @@ This project analyzes a decade of hospital patient data to evaluate whether diab
 
 In this project, I built an ETL pipeline to analyze movie data and uncover insights related to popularity, ratings, and profitability. The workflow extracts raw movie data from a CSV file, cleans and transforms it using Python and Pandas, and then loads the processed data into a SQLite database for structured storage and querying. The project demonstrates a full data pipeline from raw data to actionable insights using Python-based data processing and SQL for analysis.
 
-## [Project 7: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
+## [Project 7: Aircraft Fleet Readiness & Predictive Maintenance Dashboard](https://github.com/ruzair0815/Aircraft-Fleet-Readiness-Predictive-Maintenance/blob/main/README.md)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+![Aircraft Dashboard](images/EngineAnalysisDashboard.png)
+
+[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
+
+## [Project 8: Spotify Analytics](https://github.com/ruzair0815/SpotifyAnalytics)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -112,7 +123,7 @@ In this project, I built an ETL pipeline to analyze movie data and uncover insig
 
 This project is a web application that analyzes Spotify playlists to generate insights about songs and listening trends. It processes playlist data to evaluate features like tempo, energy, and popularity, then stores both the raw and processed data for further use. The results are displayed through an interactive interface with visualizations that help users understand patterns within their music.
 
-## [Project 8: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
+## [Project 9: Sales Performance Analysis & Dashboard](https://github.com/ruzair0815/Sales-Performance-Analysis-Dashboard)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -123,7 +134,7 @@ In this project, I analyzed and visualized retail sales data from the Sample Sup
 
 ![Retail Dashboard](images/RetailDashboard.png)
 
-## [Project 9: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
+## [Project 10: Hotel Management Database](https://github.com/ruzair0815/HotelManagementDatabase/tree/main)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -132,7 +143,7 @@ In this project, I analyzed and visualized retail sales data from the Sample Sup
 
 This project is a hotel management database system focused on organizing and managing structured data related to hotel reservations. It stores and processes key datasets such as customer information, employee records, and booking details, enabling efficient querying and retrieval of reservation data. The system tracks important data points like check-in/check-out dates and billing information, allowing for accurate reporting and analysis of hotel operations. Built using a relational database with a web interface, the project highlights strong experience in data modeling, database design, and working with structured data to support real-world business processes.
 
-## [Project 10: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
+## [Project 11: Customer Sales & Revenue Analysis](https://github.com/ruzair0815/Customer-Sales-and-Revenue-Analysis)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
