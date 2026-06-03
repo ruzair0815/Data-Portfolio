@@ -53,7 +53,7 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Airline Dashboard](images/AirlineProfitabilityDashboard.png)
+![Airline Dashboard](images/AirlineDash.png)
 
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/Book1_17773240510540/AirlineProfitabilityOperationsAnalysis?publish=yes)
 
