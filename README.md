@@ -37,7 +37,7 @@ I’m always looking to keep learning and growing, and I’m currently seeking e
 - [Project 1: Airline Profitability & Operations Analysis](https://github.com/ruzair0815/airline_profitability_operations_analysis)
 - [Project 2: Retail Transaction Database & Analysis](https://github.com/ruzair0815/Retail-Transaction-Database/tree/main)
 - [Project 3: Headphone Market & Pricing Analytics Dashboard](https://github.com/ruzair0815/E-Commerce-Headphone-Analytics)
-- [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
+- [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1?publish=yes)
 - [Project 5: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Project 6: Movie Analysis ETL](https://github.com/ruzair0815/Movie-Analysis)
 - [Project 7: Aircraft Fleet Readiness & Predictive Maintenance Dashboard](https://github.com/ruzair0815/Aircraft-Fleet-Readiness-Predictive-Maintenance/blob/main/README.md)
@@ -78,13 +78,13 @@ This project simulates a large-scale retail sales database to analyze customer p
 
 This project analyzes e-commerce headphone pricing data to identify market trends and brand positioning across online retail listings. Using Python, I scraped and cleaned product data, generated historical pricing trends, and built an interactive Tableau dashboard with KPI cards, trend charts, and pricing visualizations to analyze retail pricing behavior and market insights.
 
-## [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1)
+## [Project 4: E-Commerce Store Performance Analysis](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceStorePerformanceAnalysis/Dashboard1?publish=yes)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 This dashboard provides an interactive analysis of an online retail dataset, highlighting key business metrics and customer behavior from 2010–2011. It presents total revenue, order volume, and customer count alongside trends over time, allowing for quick assessment of overall performance and seasonality. Additional visualizations break down revenue by country and identify top-performing products, offering insights into geographic markets and product demand. A global country filter enables users to dynamically explore how performance varies across regions, making the dashboard a practical tool for understanding sales patterns and supporting data-driven decision-making.
 
-![Ecom Dashboard](images/EcomDashboard.png)
+![Ecom Dashboard](images/EcomDash.png)
 
 ## [Project 5: Predicting Hospital Readmissions](https://public.tableau.com/views/IsDiabetesaPredictorofHospitalReadmission/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
