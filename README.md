@@ -110,7 +110,7 @@ In this project, I built an ETL pipeline to analyze movie data and uncover insig
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Aircraft Dashboard](images/EngineAnalysisDashboard.png)
+![Aircraft Dashboard](images/AircraftDash.png)
 
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/AircraftFleetReadinessPredictiveMaintenanceDashboard/Dashboard1?publish=yes)
 
